@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Generated output files (keep samples, ignore generated ones)
+data/healthcare_dataset.csv
+data/healthcare_dataset_clean.csv
+data/clean.csv
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
